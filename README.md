@@ -3,7 +3,6 @@
 
 ## 📫 How to reach me ...
 - LinkedIn: https://linkedin.com/in/pekkakokkonen
-- Twitter: https://twitter.com/pekkakokkonen
 
 You can also run `npx pexxi` on your terminal.
 
